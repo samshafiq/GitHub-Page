@@ -2,9 +2,7 @@
 title: "PA 466"
 author: "Saman Shafiq"
 date: "2024-02-01"
-output: 
-  prettydoc::html_pretty:
-    theme: cayman
+output: rmdformats::readthedown
 ---
 
 ```{r setup, include=FALSE}
